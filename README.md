@@ -13,6 +13,7 @@
 -Model was designed and implmented using Scikit-Learn.  
 
 <b>Checkpoint4_part2</b> includes:  
+-Tested the hypothesis if the YouTube's Algorithm consciously ensures diversity of content within the Trending List of videos.  
 -Statistical Inference to understand the role of numerical statistics such as likes, dislikes, views and comments in making the video trending.  
 
 Take a look at the in-depth analysis and what did we learn from the data:  
