@@ -22,7 +22,7 @@ Team Members:
 
 <b>Checkpoint4_part2</b> includes:  
 -Tested the hypothesis if the YouTube's Algorithm consciously ensures diversity of content within the Trending List of videos.  
--Conducted statistical Inference to understand the role of numerical statistics such as likes, dislikes, views and comments in making the video trending.  
+-Conducted statistical Inference, mainly using permutation test, to understand the role of numerical statistics such as likes, dislikes, views and comments in making the video trending.  
 
 All of the Notebooks contain detailed documentation of the task at hand.  
 
