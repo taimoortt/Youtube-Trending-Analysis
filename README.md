@@ -1,3 +1,11 @@
+Team Members:  
+- M Taimoor Tariq  
+- Vafa Batool  
+- Talal Touseef  
+- Talha Waheed  
+- Anna Mazhar  
+
+
 # Youtube-Trending-Analysis
 <b>Checkpoint3_part1</b> includes:  
 -Analysis of regional preferences.  
@@ -15,6 +23,9 @@
 <b>Checkpoint4_part2</b> includes:  
 -Tested the hypothesis if the YouTube's Algorithm consciously ensures diversity of content within the Trending List of videos.  
 -Conducted statistical Inference to understand the role of numerical statistics such as likes, dislikes, views and comments in making the video trending.  
+
+All of the Notebooks contain detailed documentation of the task at hand.  
+
 
 Take a look at the in-depth analysis and what did we learn from the data:  
 https://taimoor-tt10.medium.com/hack-your-way-into-youtube-trending-9659398ee34e
